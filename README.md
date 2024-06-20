@@ -6,7 +6,7 @@
   <li>Scalability: Handles large datasets and scales with the needs of your application.</li>
   <li>Real-Time Updates: Ensures that the most current data is available for analysis and presentation.</li>
 </ul>
-
+![Exemplo de funcionamento](exemple.gif)
 
 
 

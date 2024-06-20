@@ -1,4 +1,4 @@
-<h1>Features:</h1>
+<h1>Features</h1>
 <ul>
   <li>CSV Consumption: Capability to import CSV data from various sources.</li>
   <li>Stream Transformation: Converts CSV data into streams, enabling efficient processing and analysis.</li>
